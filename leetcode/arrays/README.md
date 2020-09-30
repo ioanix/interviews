@@ -1,1 +1,1 @@
-Interview questions practice
+Practice interview questions with arrays
